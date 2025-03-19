@@ -1,0 +1,6 @@
+Lê arquivo e exibe
+
+1
+2 <?php
+3 // get a web page into an array and print it out
+4 $fcontents = file( 
