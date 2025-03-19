@@ -1,0 +1,9 @@
+Links:
+Exercício 1 a 4
+http://143.198.139.215/~oliveira/cgi-bin/exer1a4.cgi?var1=2&var2=1
+Exercício 5
+http://143.198.139.215/~oliveira/cgi/exer5.html
+Exercício 6
+http://143.198.139.215/~oliveira/cgi/exer6.html
+Exercício 7
+http://143.198.139.215/~oliveira/cgi/exer7.html
